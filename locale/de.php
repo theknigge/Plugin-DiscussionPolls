@@ -30,3 +30,4 @@ $Definition['Discussion Polls Settings'] = 'Einstellungen für Umfragen';
 $Definition['Discussion Poll Title'] = 'Titel der Umfrage';
 $Definition['%s vote'] = '%s Stimme';
 $Definition['%s votes'] = '%s Stimmen';
+$Definition['Submit'] = 'Absenden';
